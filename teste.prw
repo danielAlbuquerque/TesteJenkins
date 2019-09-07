@@ -1,6 +1,6 @@
 #include "totvs.ch"
 
 User Function Teste()
-  Alert('teste')
+  Alert('teste teste')
   
 Return
